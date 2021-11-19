@@ -1,0 +1,100 @@
+{
+    "grocery" : [
+        {
+            "slno" : 1,
+            "name" : "Banana",
+            "quantity" : "1",
+            "unit" : "kg",
+            "department" : "Fruits",
+            "notes" : "Robusta preferably"
+        },
+        {
+            "slno" : 2,
+            "name" : "Milk",
+            "quantity" : "1",
+            "unit" : "Litre",
+            "department" : "Diary",
+            "notes" : "Pasteurized milk"
+        },
+        {
+            "slno" : 3,
+            "name" : "Onion",
+            "quantity" : "2",
+            "unit" : "kg",
+            "department" : "Vegetables",
+            "notes" : "Fresh"
+        },
+        {
+            "slno" : 4,
+            "name" : "Tomato",
+            "quantity" : "500",
+            "unit" : "gm",
+            "department" : "Fruits",
+            "notes" : "Fresh"
+        },
+        {
+            "slno" : 5,
+            "name" : "Ginger Garlic Paste",
+            "quantity" : "100",
+            "unit" : "gm",
+            "department" : "Pastes",
+            "notes" : "Any good brand"
+        },
+        {
+            "slno" : 6,
+            "name" : "Coconut Oil",
+            "quantity" : "1",
+            "unit" : "Litre",
+            "department" : "Oil",
+            "notes" : "Coconad Oil"
+        },
+        {
+            "slno" : 7,
+            "name" : "Carrots",
+            "quantity" : "500",
+            "unit" : "gm",
+            "department" : "Vegetables",
+            "notes" : "Fresh"
+        },
+        {
+            "slno" : 8,
+            "name" : "Wheat Bread",
+            "quantity" : "1",
+            "unit" : "No.",
+            "department" : "Bakery",
+            "notes" : "Modern"
+        },
+        {
+            "slno" : 9,
+            "name" : "Fish",
+            "quantity" : "400",
+            "unit" : "gm",
+            "department" : "Meat",
+            "notes" : "Tuna"
+        },
+        {
+            "slno" : 10,
+            "name" : "Sambhar Powder",
+            "quantity" : "100",
+            "unit" : "gm",
+            "department" : "Powders",
+            "notes" : "Kitchen Treasures"
+        },
+        {
+            "slno" : 11,
+            "name" : "Coriander Leaves",
+            "quantity" : "100",
+            "unit" : "gm",
+            "department" : "Leafy Vegetables",
+            "notes" : "Fresh"
+        },
+        {
+            "slno" : 12,
+            "name" : "Cashew nuts",
+            "quantity" : "300",
+            "unit" : "gm",
+            "department" : "Dry Fruits",
+            "notes" : "Splited"
+        }
+    ]
+}

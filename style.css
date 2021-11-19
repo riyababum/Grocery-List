@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Slabo+27px&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Slabo 27px', serif;
+}
+body{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)),url(./bg.jpg);
+    width: 100%;
+    height:calc(100vh - 90px);
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    position: absolute;
+    top:30%; left:10%;
+    display: block;
+    height: 200px; width: 400px;
+    text-align: center;
+}
+.heading{
+    font-size: 50px;
+    line-height: 30px;
+    color: rgb(255, 8, 82);
+    font-family: 'Heebo', sans-serif;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 20px; padding: 10px 10px;
+}
+.content p{
+    font-size: 20px;
+    line-height: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Slabo 27px', serif;
+}
+.button{ 
+    font-size: 20px; 
+    font-weight: 700;
+    color: white;
+    line-height: 40px;
+    background-color: rgb(255, 8, 82);
+    padding: 5px 20px;
+    border-radius: 13px; border: none;
+    transition: all 0.2s ease-in-out;
+}
+.button:hover{ 
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 8, 82);
+    color: rgb(255, 8, 82);
+}
+.gtable{
+    height:80%;
+    width: 60%;
+    margin: 5% auto;
+}
+.gtable table{
+    height:100%;
+    width:100%;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+.gtable table th{
+    background-color:rgba(253, 198, 198, 0.85);
+}
+.chk.checked,.row1.checked,.row2.checked,.row3.checked,.row4.checked,.row5.checked,.row6.checked{
+    text-decoration: line-through;
+    background-color: rgba(253, 198, 198, 0.85);
+}
